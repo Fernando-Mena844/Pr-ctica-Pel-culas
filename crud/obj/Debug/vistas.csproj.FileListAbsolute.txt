@@ -1,0 +1,40 @@
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\bin\Debug\crud.exe.config
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\bin\Debug\crud.exe
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\bin\Debug\crud.pdb
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\crud.frmPeliculas.resources
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\crud.exe
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\crud.pdb
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\bin\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\bin\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\CRUDySQL\crud\obj\Debug\vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\bin\Debug\crud.exe.config
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\bin\Debug\crud.exe
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\bin\Debug\crud.pdb
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\bin\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\bin\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\crud.frmPeliculas.resources
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\crud.exe
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\crud\obj\Debug\crud.pdb
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\bin\Debug\crud.exe.config
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\bin\Debug\crud.exe
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\bin\Debug\crud.pdb
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\bin\Debug\Modelos.dll
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\bin\Debug\Modelos.pdb
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\crud.exe.config
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\crud.frmPeliculas.resources
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\vistas.csproj.Up2Date
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\crud.exe
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\crud\obj\Debug\crud.pdb

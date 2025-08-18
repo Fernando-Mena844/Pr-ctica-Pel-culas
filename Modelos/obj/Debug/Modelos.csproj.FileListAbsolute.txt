@@ -1,0 +1,27 @@
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\bin\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\obj\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\CRUDySQL\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\bin\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\obj\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\CRUD-con-SQL\Modelos\obj\Debug\Modelos.pdb
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\bin\Debug\Modelos.dll
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\bin\Debug\Modelos.pdb
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\obj\Debug\Modelos.dll
+C:\Users\ferme\OneDrive\Documentos\Colegio\Rical\Módulos profe Emerson\Sistema adminstrativo de películas\Modelos\obj\Debug\Modelos.pdb
