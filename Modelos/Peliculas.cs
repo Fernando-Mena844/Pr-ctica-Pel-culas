@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -94,6 +95,21 @@ namespace Modelos
 
                 return false;
             }
+        }
+        public static DataTable BuscarPeliculas(string busqueda)
+        {
+            SqlConnection con = Conexion.Conectar();
+            StringBuilder queryRead = new StringBuilder();
+            queryRead.Append("select id_pelicula  as [Número de registro], ");
+            queryRead.Append("nombre as Película, ");
+            queryRead.Append("director as Director, ");
+            queryRead.Append("fechaLanzamiento as [Fecha de lanzamiento] ");
+            queryRead.Append("from peliculas where nombre like @busqueda or director like @busqueda");
+            SqlDataAdapter ad = new SqlDataAdapter(queryRead.ToString(), con);
+            ad.SelectCommand.Parameters.AddWithValue("@busqueda", "%" + busqueda + "%");
+            DataTable dt = new DataTable();
+            ad.Fill(dt);
+            return dt;
         }
     }
 }

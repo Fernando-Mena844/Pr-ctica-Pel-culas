@@ -33,6 +33,7 @@ namespace crud
             txtNombre.Text = string.Empty;
             txtDirector.Text = string.Empty;
             dtpFecha.Value = DateTime.Now;
+            MostrarPeliculas();
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -102,6 +103,19 @@ namespace crud
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             LimpiarCampos();
+        }
+
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                dgvPeliculas.DataSource = null;
+                dgvPeliculas.DataSource = Peliculas.BuscarPeliculas(txtBuscar.Text);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Hubo un error al buscar el registro.\n"+ex, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }
